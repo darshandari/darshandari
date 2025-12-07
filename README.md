@@ -11,7 +11,7 @@ I continually expand my skills and contribute my knowledge. My work is character
 Currently working as a Full-time as a Animator / Freelance.
 <br><br>
 
-###📫 <b>Reach Me Out:</b> 
+### 📫 <b>Reach Me Out:</b> 
 
 <a href="mailto:darshandari07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"></a>
 <a href="https://in.linkedin.com/in/dari-darshan-g-062237168" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
